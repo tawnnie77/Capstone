@@ -7,12 +7,13 @@ public class ContactService1 {
 	}
 }
 
-// Milestone Two Enhancement begins at line 15
-
-// Milestone Three Enhancement begins at line 50
+// Software Design and Development Enhancement begins at line 16
 
 
-// Enhancement of the code for Milestone Two 
+// Algorithms and Data Structures Enhancement begins at line 51
+
+
+// Software Design and Development Enhancement Begins Here
 
 // Adding a contact function to validate information
 FUNCTION addContact(Contact contact):
@@ -47,7 +48,7 @@ Contact contact = contactsMap.get(contactID)
 End FUNCTION
 
 
-// Enhancement of the code of Milestone Three
+// Algorithm and Data Structures Enhancement Begins Here
 
 // Replace the ArrayList with HashMap 
 HashMap<String, Contact> contactsMap = new HashMap<>();
@@ -88,3 +89,4 @@ END FUNCTION
 FUNCTION getContact(String contactID):
  RETURN contactsMap.get(contactID)
 END FUNCTION
+
