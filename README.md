@@ -17,7 +17,7 @@
 
 # Code Review
 
-<img width="299" height="169" alt="images" src="https://github.com/user-attachments/assets/0ebdd7d0-f972-4bb1-a425-fac5a1ca203f" />
+<img width="250" height="109" alt="images" src="https://github.com/user-attachments/assets/0ebdd7d0-f972-4bb1-a425-fac5a1ca203f" />
 
 ### Here is a direct link to my YouTube channel, where I have uploaded a detailed Code Review video. In this presentation, I cover several important aspects:
 
@@ -30,7 +30,7 @@
 
 # Software Design and Development
 
-<img width="800" height="600" alt="java-4-logo" src="https://github.com/user-attachments/assets/4994a6d3-b2dc-419d-b19f-45c76d024cc1" />
+<img width="600" height="400" alt="java-4-logo" src="https://github.com/user-attachments/assets/4994a6d3-b2dc-419d-b19f-45c76d024cc1" />
 
 ### This document assesses and builds upon a project from CS 320 completed in May 2024, demonstrating my skills in Software Engineering and Design. I analyzed the previous code to identify areas for improvement and outline the modifications made to align with course objectives. My approach focused on improving code quality through modularity for easier maintenance and scalability, emphasizing strong input validation for reliability and efficiency. By restructuring code into smaller functions, I illustrate my proficiency in creating maintainable systems that follow object-oriented design principles, such as the Single Responsibility Principle. Additionally, I enhanced software resilience with thorough input validation and effective exception handling, and I transitioned from an ArrayList to a HashMap to optimize contact retrieval, reflecting my capacity to select suitable data structures to improve performance in line with course goals.
 
