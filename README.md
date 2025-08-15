@@ -1,7 +1,7 @@
 # Tanya Noyes
 ## Welcome to My Professional ePortfolio
 
-## Introduction
+# Introduction
 
 ### My name is Tanya Noyes. I am a student at Southern New Hampshire University, pursuing a degree in Computer Science. In my Professional Self-Assessment, I offer a comprehensive introduction about myself. Furthermore, I have included various projects I created while at SNHU, which I will now showcase through more advanced and professionally applicable applications developed during my Computer Science Capstone course.
 
@@ -17,10 +17,12 @@
 
 # Code Review
 
+<img width="299" height="169" alt="images" src="https://github.com/user-attachments/assets/0ebdd7d0-f972-4bb1-a425-fac5a1ca203f" />
+
 ### Here is a direct link to my YouTube channel, where I have uploaded a detailed Code Review video. In this presentation, I cover several important aspects:
 
--Existing Functionality: I provide a comprehensive walkthrough of the code, clarifying its purpose, the specific tasks it performs, and the underlying mechanics that drive its operation.
--Code Analysis: I analyze the structure of the code, searching for areas where efficiencies can be improved. Additionally, I evaluate the presence of comments and documentation, sharing my insights on how well these elements support understanding and maintainability.
--Enhancements: I discuss potential improvements, offering an explanation of planned enhancements and how they could elevate the overall functionality of the code.
+###-Existing Functionality: I provide a comprehensive walkthrough of the code, clarifying its purpose, the specific tasks it performs, and the underlying mechanics that drive its operation.
+###-Code Analysis: I analyze the structure of the code, searching for areas where efficiencies can be improved. Additionally, I evaluate the presence of comments and documentation, sharing my insights on how well these elements support understanding and maintainability.
+###-Enhancements: I discuss potential improvements, offering an explanation of planned enhancements and how they could elevate the overall functionality of the code.
 
 
