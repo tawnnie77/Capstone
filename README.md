@@ -21,8 +21,8 @@
 
 ### Here is a direct link to my YouTube channel, where I have uploaded a detailed Code Review video. In this presentation, I cover several important aspects:
 
-###-Existing Functionality: I provide a comprehensive walkthrough of the code, clarifying its purpose, the specific tasks it performs, and the underlying mechanics that drive its operation.
-###-Code Analysis: I analyze the structure of the code, searching for areas where efficiencies can be improved. Additionally, I evaluate the presence of comments and documentation, sharing my insights on how well these elements support understanding and maintainability.
-###-Enhancements: I discuss potential improvements, offering an explanation of planned enhancements and how they could elevate the overall functionality of the code.
+### -Existing Functionality: I provide a comprehensive walkthrough of the code, clarifying its purpose, the specific tasks it performs, and the underlying mechanics that drive its operation.
+### -Code Analysis: I analyze the structure of the code, searching for areas where efficiencies can be improved. Additionally, I evaluate the presence of comments and documentation, sharing my insights on how well these elements support understanding and maintainability.
+### -Enhancements: I discuss potential improvements, offering an explanation of planned enhancements and how they could elevate the overall functionality of the code.
 
 
