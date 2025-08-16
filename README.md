@@ -29,11 +29,11 @@
 ## You can view my code review [here](https://www.youtube.com/watch?v=IznnobGOgxE).
 
 
-# Software Design and Development
+# Software Design and Engineering
 
 <img width="350" height="150" alt="java-4-logo" src="https://github.com/user-attachments/assets/4994a6d3-b2dc-419d-b19f-45c76d024cc1" />
 
-### The initial artifact I present serves as an evaluation and enhancement of a project from CS 320, completed in May 2024, which highlights my competencies in Software Engineering and Design. In this process, I meticulously examined the existing code to identify areas that required improvement and documented the modifications made in alignment with the course objectives. My approach focused on improving code quality through modular design, which not only simplifies maintenance and scalability but also strengthens input validation to ensure the software's reliability and efficiency. By segmenting the code into smaller, manageable functions, I showcased my proficiency in creating maintainable systems that follow object-oriented design principles, especially the Single Responsibility Principle.
+### The initial artifact I present serves as an evaluation and enhancement of a project from CS 320, completed in May 2024, which highlights my competencies in Software Design and Engineering. In this process, I meticulously examined the existing code to identify areas that required improvement and documented the modifications made in alignment with the course objectives. My approach focused on improving code quality through modular design, which not only simplifies maintenance and scalability but also strengthens input validation to ensure the software's reliability and efficiency. By segmenting the code into smaller, manageable functions, I showcased my proficiency in creating maintainable systems that follow object-oriented design principles, especially the Single Responsibility Principle.
 
 ### Additionally, I sustained the software's resilience by implementing thorough input validation and effective exception handling. I also transitioned from using an ArrayList to a HashMap, which significantly optimized the contact retrieval process. This change exemplifies my ability to choose suitable data structures that enhance performance while meeting course expectations. Overall, the modifications I made reflect my commitment to delivering high-quality software solutions that align with best practices in software design and engineering.
 
