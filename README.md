@@ -54,7 +54,7 @@
 
 # Databases
 
-<img width="200" height="400" alt="mongodb-icon-logo-png_seeklogo-503274" src="https://github.com/user-attachments/assets/f5b3224d-df95-4f35-97df-f2ff0bfa139c" />
+<img width="200" height="300" alt="mongodb-icon-logo-png_seeklogo-503274" src="https://github.com/user-attachments/assets/f5b3224d-df95-4f35-97df-f2ff0bfa139c" />
 
 
 ### The third artifact I present is an improved version of a project from the CS 340 course, which was finalized in October 2024. This project focuses on creating a CRUD (Create, Read, Update, Delete) application specifically designed for managing data within an animal shelter, employing MongoDB as the core database solution. The application simplifies critical operations such as adding new animals and deleting records, thereby enhancing the overall management of information. This improvement not only aids in animal care but also optimizes the operational efficiency of the shelter. I chose to showcase this project due to the challenges it presented, which led to a reevaluation of its functionalities.
