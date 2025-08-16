@@ -62,6 +62,7 @@
 ### Despite the initial system's effectiveness, I identified areas where database features and data retrieval methods could be enhanced. My strategy involves MongoDB's advanced functionalities, including aggregation pipelines for executing complex queries and implementing a robust user authentication system for secure access to sensitive information. Additionally, I am developing a web interface using HTML and JavaScript to facilitate better user engagement. These enhancements aim to create a more efficient database system that aligns with the specific requirements of the shelter. I am confident that I have fulfilled the essential objectives of the course, particularly in strengthening User Authentication and Role-Based Access Control, which regulates access to sensitive data and CRUD functionalities based on user roles. Furthermore, the Frontend Integration includes a user-friendly interface that allows seamless database interaction through web browsers, thereby enhancing the user experience while ensuring high security standards are upheld.
 
 [Original Version](https://github.com/tawnnie77/Capstone/blob/main/Original%20CS%20340%20AnimalShelter.py)
+
 [Enhancement Version](https://github.com/tawnnie77/Capstone/blob/main/Enhancement%20CS340%20AnimalShelter.py)
 
 
